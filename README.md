@@ -6,9 +6,15 @@ With Azure Synapse Analytics users can work with both SQL Pools and Spark Pools.
 
 # Spark-Pools sample Notebooks
 
-* Spark Mapreduce job (Python, .Net, Scala, Java)
-* Spark SQL job
-* Machine Learning job
-* Spark Streaming job
-* GraphX
-* Delta sample
+## Big Data Analytics with Azure Synapse Spark
+		* ETL with Synapse Spark
+		  * Mapreduce (Python, .Net, Scala)
+			* SQL
+			* Machine Learning
+			* Streaming
+			* GraphX
+			* Delta
+		* Data Lake Gen2
+		* SQL Pool
+		* Provisioned and on-demand
+    * Security (ACLs, Encryption, Row / Column level security, VNet / private Link)
