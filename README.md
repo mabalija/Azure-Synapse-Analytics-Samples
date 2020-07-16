@@ -17,4 +17,4 @@ With Azure Synapse Analytics users can work with both SQL Pools and Spark Pools.
 		* Data Lake Gen2
 		* SQL Pool
 		* Provisioned and on-demand
-    * Security (ACLs, Encryption, Row / Column level security, VNet / private Link)
+		* Security (ACLs, Encryption, Row / Column level security, VNet / private Link)
